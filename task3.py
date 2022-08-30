@@ -8,3 +8,4 @@ def host_range_ping_tab():
     print(tabulate([tab_dict], headers='keys', tablefmt="pipe", stralign="center"))
 
 host_range_ping_tab()
+#final task

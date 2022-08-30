@@ -14,4 +14,4 @@ def host_range_ping(ip, counter):
     return iplist
 
 
-host_ping((host_range_ping('123.231.231.200', 4)))
+# host_ping((host_range_ping('123.231.231.200', 4)))
